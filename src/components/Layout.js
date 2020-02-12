@@ -26,7 +26,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+           Random ideas life and dragons
           </Link>
         </h1>
       )

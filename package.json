@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "rilad",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "the rilad project",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "R01",
   "dependencies": {
     "@mdx-js/mdx": "^1.4.0",
     "@mdx-js/react": "^1.4.0",
